@@ -5,7 +5,7 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['59162290824', '𝐅𝐀𝐌𝐈𝐋𝐈𝐀 𝐒𝐋<𝟑  ᷦ×͜×', true],
+  ['51951035119', '𝐊𝐮𝐫𝐢𝐛𝐨𝐭<𝟑  ᷦ×͜×', true],
   ['51914865141', '@𝐀𝐥𝐞.𝐢𝐳𝐧  ᷦ', true],
 ] // Cambia los numeros que quieras
 global.mods = [] 
@@ -63,11 +63,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '𝐅𝐀𝐌𝐈𝐋𝐈𝐀 𝐒𝐋<𝟑  ᷦ×͜×'
-global.author = '★𝐅𝐀𝐌𝐈𝐋𝐈𝐀 𝐒𝐋<𝟑  ᷦ★'
+global.packname = '𝐊𝐮𝐫𝐢𝐛𝐨𝐭<𝟑  ᷦ×͜×'
+global.author = '★𝐊𝐮𝐫𝐢𝐛𝐨𝐭<𝟑  ᷦ★'
 
-global.wm = '★ 𝐅𝐀𝐌𝐈𝐋𝐈𝐀 𝐒𝐋<𝟑  ᷦ★'
-global.igfg = '★ 𝐅𝐀𝐌𝐈𝐋𝐈𝐀 𝐒𝐋<𝟑  ᷦ★'
+global.wm = '★ 𝐊𝐮𝐫𝐢𝐛𝐨𝐭<𝟑  ᷦ★'
+global.igfg = '★ 𝐊𝐮𝐫𝐢𝐛𝐨𝐭<𝟑  ᷦ★'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
