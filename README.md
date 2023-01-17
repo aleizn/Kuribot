@@ -18,8 +18,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/jairgonzales3/BotsitoOficial
-> cd BotsitoOficial
+> git clone https://github.com/Aleizn/Permanente
+> cd Permanente
 > yarn install 
 > npm install
 > npm update
@@ -29,14 +29,14 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE ✔️`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd BotsitoOficial
+> cd Permanente
 > npm start
 ```
 
 ### `—◉ 👽 OBTENER OTRO CODIGO QR 👽`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd BotsitoOficial
+> cd Permanente
 > rm -rf session.data.json
 > npm start
 ```
